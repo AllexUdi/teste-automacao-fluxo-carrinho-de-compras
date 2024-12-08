@@ -1,0 +1,8 @@
+https://www.saucedemo.com/
+
+tutorial:
+https://www.youtube.com/watch?v=4TL1cV4Cp6I
+
+
+comandos
+clicar numa palavra:  cy.get('.title').should('contain','palavra')

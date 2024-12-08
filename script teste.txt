@@ -1,0 +1,9 @@
+- validar login realizado com sucesso
+- validar login com email inválido
+- validar logim com senha inválida
+- validar login com email e senha inválida
+
+cadastro realizado com sucesso
+
+www.página
+
